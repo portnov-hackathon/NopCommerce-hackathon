@@ -1,5 +1,6 @@
 package support;
 
+import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
@@ -19,5 +20,10 @@ public class Hooks {
         return driver;
     }
 
+
+    @After
+    public void afterScenario(){
+       driver.quit();
+    }
 
 }
