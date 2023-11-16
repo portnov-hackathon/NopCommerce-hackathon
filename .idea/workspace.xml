@@ -9,13 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfd4985e-6c21-4049-9090-718533df7ed0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/definitions/ProductReviewStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/guestUser.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/definitions/SearchProductDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/definitions/ProductSearchStepDefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/support/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/support/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/searchproduct.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/registeredUser.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,5 +183,16 @@
       <updated>1699855214120</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
